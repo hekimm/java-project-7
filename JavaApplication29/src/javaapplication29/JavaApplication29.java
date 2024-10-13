@@ -38,6 +38,7 @@ public class JavaApplication29 {
                
             case 3:
                sonuc = birinciSayi * ikinciSayi;
+                break;
 
             case 4:
                  sonuc = birinciSayi/ ikinciSayi;
